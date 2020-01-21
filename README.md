@@ -1,22 +1,10 @@
-# codesandbox-nuxt
+# Steps to reproduce:
 
-> Nuxt starter for CodeSandBox (used for https://template.nuxtjs.org)
+- `npm i`
+- `npm run start` compiles and launches the server in production mode.
+- inspect the browser console.
 
-## Build Setup
 
-``` bash
-# install dependencies
-$ yarn install
+## Important files
 
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+`/plugins/customCursor.js`
