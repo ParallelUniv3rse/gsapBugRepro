@@ -14,7 +14,7 @@
   "dependencies": {
     "@nuxt/http": "^0.3.0",
     "gsap": "^3.0.5",
-    "nuxt": "^2.5.1",
+    "nuxt": "^2.15.8",
     "reqlim": "^0.0.0"
   }
 }
